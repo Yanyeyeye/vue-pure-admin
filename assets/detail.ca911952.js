@@ -1,0 +1,1 @@
+import{y as o,Y as n,o as s,p as r,G as a,C as c}from"./index.03c8aace.js";const d=o({setup(p){var e,t;const u=(t=(e=n().query)==null?void 0:e.id)!=null?t:-1;return(l,B)=>(s(),r("div",null,a(c(u))+" - \u8BE6\u60C5\u9875\u5185\u5BB9\u5728\u6B64",1))}});export{d as default};
